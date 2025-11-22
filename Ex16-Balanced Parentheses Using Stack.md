@@ -20,8 +20,8 @@ To write a Java program that verifies whether the parentheses (brackets) in an i
 
 ## Program:
 ```
-Developed by: SANJAY M
-Register Number: 212223230187
+Developed by: KISHORE G
+Register Number: 212223040099
 ```
 
 ```
