@@ -20,8 +20,8 @@ To design a program that checks whether a given message is a palindrome by remov
 
 ## Program:
 ```
-Developed by: SANJAY M
-Register Number: 212223230187
+Developed by: KISHORE G
+Register Number: 212223040099
 ```
 
 ```
