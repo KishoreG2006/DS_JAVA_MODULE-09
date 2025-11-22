@@ -16,8 +16,8 @@ To design a program that sorts a given array of integers in ascending order with
 
 ## Program:
 ```
-Developed by: SANJAY M
-Register Number: 212223230187
+Developed by: KISHORE G
+Register Number: 212223040099
 ```
 
 ```
